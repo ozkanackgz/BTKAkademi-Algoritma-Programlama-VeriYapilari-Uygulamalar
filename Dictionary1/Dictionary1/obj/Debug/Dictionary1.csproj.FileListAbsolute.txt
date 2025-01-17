@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Dictionary1\Dictionary1\bin\Debug\Dictionary1.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Dictionary1\Dictionary1\obj\Debug\Dictionary1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Dictionary1\Dictionary1\obj\Debug\Dictionary1.pdb

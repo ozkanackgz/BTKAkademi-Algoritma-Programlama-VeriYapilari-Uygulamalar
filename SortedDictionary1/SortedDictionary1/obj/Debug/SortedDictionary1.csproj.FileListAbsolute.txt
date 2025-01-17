@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\SortedDictionary1\SortedDictionary1\bin\Debug\SortedDictionary1.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\SortedDictionary1\SortedDictionary1\bin\Debug\SortedDictionary1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\SortedDictionary1\SortedDictionary1\bin\Debug\SortedDictionary1.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\SortedDictionary1\SortedDictionary1\obj\Debug\SortedDictionary1.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\SortedDictionary1\SortedDictionary1\obj\Debug\SortedDictionary1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\SortedDictionary1\SortedDictionary1\obj\Debug\SortedDictionary1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\SortedDictionary1\SortedDictionary1\obj\Debug\SortedDictionary1.pdb

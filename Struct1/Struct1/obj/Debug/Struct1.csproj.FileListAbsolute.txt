@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Struct1\Struct1\bin\Debug\Struct1.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Struct1\Struct1\bin\Debug\Struct1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Struct1\Struct1\bin\Debug\Struct1.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Struct1\Struct1\obj\Debug\Struct1.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Struct1\Struct1\obj\Debug\Struct1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Struct1\Struct1\obj\Debug\Struct1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Struct1\Struct1\obj\Debug\Struct1.pdb

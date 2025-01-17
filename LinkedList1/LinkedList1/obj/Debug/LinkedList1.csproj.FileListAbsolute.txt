@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\LinkedList1\LinkedList1\bin\Debug\LinkedList1.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\LinkedList1\LinkedList1\bin\Debug\LinkedList1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\LinkedList1\LinkedList1\bin\Debug\LinkedList1.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\LinkedList1\LinkedList1\obj\Debug\LinkedList1.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\LinkedList1\LinkedList1\obj\Debug\LinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\LinkedList1\LinkedList1\obj\Debug\LinkedList1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\LinkedList1\LinkedList1\obj\Debug\LinkedList1.pdb

@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Diziler1\Diziler1\bin\Debug\Diziler1.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Diziler1\Diziler1\bin\Debug\Diziler1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Diziler1\Diziler1\bin\Debug\Diziler1.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Diziler1\Diziler1\obj\Debug\Diziler1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Diziler1\Diziler1\obj\Debug\Diziler1.pdb

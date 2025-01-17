@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Stack1\Stack1\bin\Debug\Stack1.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Stack1\Stack1\bin\Debug\Stack1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Stack1\Stack1\bin\Debug\Stack1.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Stack1\Stack1\obj\Debug\Stack1.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Stack1\Stack1\obj\Debug\Stack1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Stack1\Stack1\obj\Debug\Stack1.exe
+C:\Users\ozkan\OneDrive\Masaüstü\algoritma\Stack1\Stack1\obj\Debug\Stack1.pdb
